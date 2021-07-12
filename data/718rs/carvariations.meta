@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+		<modelName>718rs</modelName>
+		<colors>
+		<Item>
+			<indices content="char_array">
+			4
+			4
+			111
+			156	
+			</indices>
+		</Item>
+		</colors>
+		<kits>
+		<Item>0_default_modkit</Item>
+		</kits>
+		<windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+		<lightSettings value="2" />
+		<sirenSettings value="0" />
+	</Item>
+  </variationData>
+</CVehicleModelInfoVariation>
